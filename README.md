@@ -58,8 +58,8 @@
   </a> 
 
 
-<h1 align="center">
-  <b>TELEGRAM INTRODUCTION</b>
+<h1 align="left">
+  <b>Contact Info</b>
 </h1>
 <p align="side">
   <a href="https://t.me/lord1of5darkness9">
