@@ -14,13 +14,15 @@
 
 ✯ 📚 BTECH CSE
 
-✯ 🧑🏻‍💻 Medium Developer
+✯ 🧑🏻‍💻 Future Developer
 
-✯ 🧑🏻‍💻 Learning programming detaily for experiance
+✯ 🧑🏻‍💻 Making Experience By Testing 😉
 
 ✯ 🤖 Expert at making TG Botz "Retired"
 
-✯ ✨ Spending Time in coding and Reading
+✯ ✨ Spending Time in Coding and Reading
+
+✯ Programming it's Happiness and Sorrow and removes Emotions🤗
 
 <b>Languages</b>
 
@@ -35,6 +37,8 @@
 ✯ SQL
 
 ✯ Python
+
+✯ Flutter
 
 
 
