@@ -22,7 +22,7 @@
 
 ✯ ✨ Spending Time in Coding and Reading
 
-✯ Programming it's Happiness and Sorrow and removes Emotions🤗
+✯ Programming it's Happiness and Sorrow and removes Sleep
 
 <b>Languages</b>
 
