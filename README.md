@@ -14,15 +14,17 @@
 
 ✯ 📚 BTECH CSE
 
-✯ 🧑🏻‍💻 Future Developer
+✯ 🧑🏻‍💻 Intermediate Developer
 
-✯ 🧑🏻‍💻 Making Experience By Testing 😉
+✯ Works as Designer
+
+✯ UI/UX exploring
+
+✯ 🧑🏻‍💻 Exploring Designing and Developing World more
 
 ✯ 🤖 Expert at making TG Botz "Retired"
 
-✯ ✨ Spending Time in Coding and Reading
-
-✯ Programming it's Happiness and Sorrow and removes Sleep
+✯ ✨ Spending Time in coding and Reading
 
 <b>Languages</b>
 
@@ -38,7 +40,11 @@
 
 ✯ Python
 
+✯ Node.js
+
 ✯ Flutter
+
+✯ Godot
 
 
 
