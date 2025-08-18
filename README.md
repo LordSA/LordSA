@@ -12,21 +12,14 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
 
-✯ 📚 BTECH CSE
+- 🎓 **B.Tech CSE Student**  
+- 💻 **Intermediate Developer**  
+- 🎨 Exploring **UI/UX Designing**  
+- 🤖 Former **TG Bots Developer** (*Retired*)  
+- 📚 Love **Coding & Reading** in my free time  
 
-✯ 🧑🏻‍💻 Intermediate Developer
-
-✯ Works as Designer
-
-✯ UI/UX exploring
-
-✯ 🧑🏻‍💻 Exploring Designing and Developing World more
-
-✯ 🤖 Expert at making TG Botz "Retired"
-
-✯ ✨ Spending Time in coding and Reading
-
-## 🔧 Languages & Tools
+---
+<b> 🔧 Languages & Tools</b>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
