@@ -32,7 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40" height="40"/>
 </p>
-
+<p align="left">
+  <img src="https://devicon-website.vercel.app/api/figma/original.svg" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/photoshop/line.svg?color=%235907AB" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/illustrator/line.svg?color=%23DE8500" width="40" height="40"/>
+</p>
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LordSA&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
