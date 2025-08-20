@@ -53,7 +53,7 @@
   <b>Contact Info</b>
 </h1>
 <p align="side">
-  <a href="https://t.me/lord1of5darkness9">
-    &nbsp;<img src="https://img.shields.io/badge/LORD-_SA-darkgreen?style=flat-curvesquare&logo=telegram" width="100" height="20">&nbsp;
+  <a href="https://t.me/shibilii_offline">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
