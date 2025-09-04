@@ -3,7 +3,7 @@
 </b>
 </p>
 <p align="center">
-<b>Welcome To World OF CODING
+<b>Welcome To World OF MINE
 </b>
 </p>
 <p align="center"> 
