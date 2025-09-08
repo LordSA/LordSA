@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="180">
 </p>
-<h1 align="center">Hi, I'm LordSA 👋</h1>
+<h1 align="center">Hi, I'm Shibili 👋</h1>
 <h3 align="center">Crafting code, designing dreams, and exploring the digital universe.</h3>
 
 ---
@@ -66,15 +66,24 @@
 
 <!-- Contact Section -->
 <h2>🌐 Connect With Me</h2>
-<p>
+<p align="center">
   <a href="https://t.me/shibilii_offline">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:shibiliamantk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/LordSA">
     <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_lord.sa_/">
+    <img src="https://img.shields.io/badge/Instagram-FC466B?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shibil-aman-tk">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/shibiliii_aman">
+    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
