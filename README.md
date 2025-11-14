@@ -59,7 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordSA&layout=compact&hide_border=true&theme=radical&langs_count=8&hide=jupyter%20notebook,tex,css,php" height="170"/>
 </p>
 <p align="center">
-  <-- img src="https://github-stats-alpha.vercel.app/api?username=LordSA&cc=000&tc=00ff00&ic=fff000&bc=fff" height="120" -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=LordSA&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
