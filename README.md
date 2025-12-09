@@ -1,4 +1,3 @@
-<!-- Banner & Intro -->
 <p align="center">
   <img src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="180">
 </p>
@@ -7,7 +6,6 @@
 
 ---
 
-<!-- Profile Summary -->
 <p align="center">
   <b>B.Tech CSE Student • Full-Stack Explorer • UI/UX Enthusiast</b>
 </p>
@@ -19,7 +17,6 @@
 
 ---
 
-<!-- About Section -->
 <h2>👨‍💻 About Me</h2>
 
 - 🎓 Pursuing **B.Tech in Computer Science**
@@ -30,7 +27,6 @@
 
 ---
 
-<!-- Tech Stack -->
 <h2>🛠️ My Tech Arsenal</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
@@ -52,7 +48,6 @@
 
 ---
 
-<!-- Stats Section -->
 <h2>📊 GitHub Stats & Activity</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LordSA&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
@@ -64,7 +59,6 @@
 
 ---
 
-<!-- Contact Section -->
 <h2>🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://t.me/shibilii_offline">
