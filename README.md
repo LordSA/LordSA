@@ -25,7 +25,6 @@
 - 🤖 Once built Telegram Bots, now focus on full-stack dev
 - 📚 Love reading, coding, and challenging myself
 
-
 ---
 
 <h2>🛠️ My Tech Arsenal</h2>
