@@ -5,7 +5,6 @@
 <h3 align="center">A Useless Who Know Something but Don't Know...</h3>
 
 --- 
-
 <p align="center">
   <b>B.Tech CSE Student • Full-Stack Explorer • UI/UX Enthusiast</b>
 </p>
